@@ -1,0 +1,1 @@
+import './xvj-card.ts';
